@@ -1234,6 +1234,7 @@ namespace O2Micro.Cobra.KALL17
             UInt32 ret = LibErrorCode.IDS_ERR_SUCCESSFUL;
             TASKMessage tmpmsg = new TASKMessage();  //only contains temperature parameters
 
+            ushort tmp = 0;
             switch ((ElementDefine.COMMAND)msg.sub_task)
             {
                 #region Scan SFL commands
@@ -1511,15 +1512,6 @@ namespace O2Micro.Cobra.KALL17
                 case ElementDefine.COMMAND.STANDBY_MODE:
                     ret = WriteWord(0x57, 0x7717);
                     if (ret != LibErrorCode.IDS_ERR_SUCCESSFUL) return ret;
-
-                    ushort tmp = 0;
-                    ret = ReadWord(0x59, ref tmp);
-                    if (ret != LibErrorCode.IDS_ERR_SUCCESSFUL)
-                        return ret;
-                    tmp &= 0xFFFC;
-                    ret = WriteWord(0x59, tmp);
-                    if (ret != LibErrorCode.IDS_ERR_SUCCESSFUL)
-                        return ret;
 
                     ret = WriteWord(0x57, 0x0003);
                     if (ret != LibErrorCode.IDS_ERR_SUCCESSFUL) return ret;

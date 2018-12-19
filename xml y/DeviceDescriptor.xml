@@ -320,7 +320,7 @@
           <Catalog>Rsense Configuration</Catalog>
           <DefValue>2.5</DefValue>
           <EditType>0</EditType>
-          <Format>1</Format>
+          <Format>3</Format>
           <MinValue>0.1</MinValue>
           <MaxValue>25.5</MaxValue>
           <Description>The value of the sensor resistor(mohm)</Description>
@@ -6044,9 +6044,9 @@
       </LocationList>
       <ItemList>
         <Item>CADC is disabled</Item>
-        <Item>single trigger CADC request without doing offset (faster), will send interrupt after finished, clear to “00” once finished</Item>
+        <Item>Reserved setting</Item>
         <Item>single trigger CADC request with doing offset, will send interrupt after finished, clear to “00” once finished</Item>
-        <Item>always enable Sigma_Delta CADC and do coulomb couting</Item>
+        <Item>Reserved setting</Item>
       </ItemList>
       <Private>
         <SFL Name="Expert">
