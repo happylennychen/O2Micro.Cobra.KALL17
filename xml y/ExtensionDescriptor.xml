@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Root usage="ExtensionDescriptor" chip="KALL17" chiptype="7717" bustype ="SPI" libname ="O2Micro.Cobra.KALL17" AppVersion="2.00.03" OCEVersion="1.00.09.00" ProjectCode="OCEKL17Y">
+<Root usage="ExtensionDescriptor" chip="KALL17" chiptype="7717" bustype ="SPI" libname ="O2Micro.Cobra.KALL17" AppVersion="2.00.03" OCEVersion="1.00.10.00" ProjectCode="OCEKL17Y">
   <Part Name="DBConfig">
     <ChipName>KALL17|OZ7717</ChipName>
     <ChipVersion>MP</ChipVersion>
     <UserType>Y</UserType>
-    <Date>20181218</Date>
+    <Date>20181221</Date>
     <HasCom>true</HasCom>
     <HasAMT>true</HasAMT>
   </Part>
   <Part Name = "MainBtnList">
-    <Button Label = "Expert"    DBModuleName="Expert"         Name = "Exper"         PanelName ="O2Micro.Cobra.ExperPanel"/>
+    <Button Label = "Board Config"  NoMapping="True"  Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
+      <Layout Name="layout" bOrder ="true">
+        <Button Name ="EraseBtn" IsEnable ="False" Visibility="Collapsed"/>
+      </Layout>
+    </Button>
+    <Button Label = "Expert"     Name = "Exper"         PanelName ="O2Micro.Cobra.ExperPanel"/>
+    <Button Label = "Trim"        Name = "Trim"         PanelName ="O2Micro.Cobra.TrimPanel">
+      <Layout Name="layout">
+        <Button Name ="TrimBtn" IsEnable ="True" SubTask ="0x05"/>
+      </Layout>
+    </Button>
     <Button Label = "Scan"       DBModuleName="Scan"      Name = "ScanV2"         PanelName ="O2Micro.Cobra.ScanPanel">
       <Section Name ="Configuration">
         <Element Name ="Scan Rate">
@@ -45,19 +55,9 @@
       </Section>
     </Button>
     <Button Label = "CurrentScan"	DBModuleName="CurrentScan"         Name = "CurrentScan"         PanelName ="O2Micro.Cobra.CurrentScan"/>
-    <Button Label = "OPConfig"   DBModuleName="OPConfig" NoMapping="True"   Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
+    <Button Label = "Register Config" NoMapping="True"   Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
       <Layout Name="layout" bOrder ="true">
-        <Button Name ="EraseBtn" IsEnable ="False"/>
-      </Layout>
-    </Button>
-    <Button Label = "BoardConfig"  DBModuleName="BoardConfig" NoMapping="True"   Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
-      <Layout Name="layout" bOrder ="true">
-        <Button Name ="EraseBtn" IsEnable ="False"/>
-      </Layout>
-    </Button>
-    <Button Label = "Trim"     DBModuleName="Trim"        Name = "Trim"         PanelName ="O2Micro.Cobra.TrimPanel">
-      <Layout Name="layout">
-        <Button Name ="TrimBtn" IsEnable ="True" SubTask ="0x05"/>
+        <Button Name ="EraseBtn" IsEnable ="False" Visibility="Collapsed"/>
       </Layout>
     </Button>
     <Button Label = "PreCharge"   DBModuleName="PreCharge"        Name = "PreCHGDSG"         PanelName ="O2Micro.Cobra.PreCHGDSGPanel">
