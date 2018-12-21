@@ -314,7 +314,7 @@
       <RegRef>1</RegRef>
       <SubType>41</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>0</Order>
           <NickName>Rsense</NickName>
           <Catalog>Rsense Configuration</Catalog>
@@ -341,7 +341,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>0</Order>
           <NickName>-30</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -361,7 +361,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1</Order>
           <NickName>-29</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -381,7 +381,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2</Order>
           <NickName>-28</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -401,7 +401,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3</Order>
           <NickName>-27</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -421,7 +421,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4</Order>
           <NickName>-26</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -441,7 +441,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5</Order>
           <NickName>-25</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -461,7 +461,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6</Order>
           <NickName>-24</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -481,7 +481,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>7</Order>
           <NickName>-23</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -501,7 +501,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>8</Order>
           <NickName>-22</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -521,7 +521,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>9</Order>
           <NickName>-21</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -541,7 +541,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>A</Order>
           <NickName>-20</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -561,7 +561,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>B</Order>
           <NickName>-19</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -581,7 +581,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>C</Order>
           <NickName>-18</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -601,7 +601,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>D</Order>
           <NickName>-17</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -621,7 +621,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>E</Order>
           <NickName>-16</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -641,7 +641,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>F</Order>
           <NickName>-15</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -661,7 +661,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>10</Order>
           <NickName>-14</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -681,7 +681,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>11</Order>
           <NickName>-13</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -701,7 +701,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>12</Order>
           <NickName>-12</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -721,7 +721,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>13</Order>
           <NickName>-11</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -741,7 +741,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>14</Order>
           <NickName>-10</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -761,7 +761,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>15</Order>
           <NickName>-9</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -781,7 +781,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>16</Order>
           <NickName>-8</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -801,7 +801,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>17</Order>
           <NickName>-7</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -821,7 +821,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>18</Order>
           <NickName>-6</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -841,7 +841,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>19</Order>
           <NickName>-5</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -861,7 +861,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1A</Order>
           <NickName>-4</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -881,7 +881,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1B</Order>
           <NickName>-3</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -901,7 +901,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1C</Order>
           <NickName>-2</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -921,7 +921,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1D</Order>
           <NickName>-1</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -941,7 +941,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1E</Order>
           <NickName>0</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -961,7 +961,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>1F</Order>
           <NickName>1</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -981,7 +981,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>20</Order>
           <NickName>2</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1001,7 +1001,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>21</Order>
           <NickName>3</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1021,7 +1021,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>22</Order>
           <NickName>4</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1041,7 +1041,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>23</Order>
           <NickName>5</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1061,7 +1061,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>24</Order>
           <NickName>6</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1081,7 +1081,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>25</Order>
           <NickName>7</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1101,7 +1101,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>26</Order>
           <NickName>8</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1121,7 +1121,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>27</Order>
           <NickName>9</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1141,7 +1141,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>28</Order>
           <NickName>10</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1161,7 +1161,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>29</Order>
           <NickName>11</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1181,7 +1181,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2A</Order>
           <NickName>12</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1201,7 +1201,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2B</Order>
           <NickName>13</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1221,7 +1221,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2C</Order>
           <NickName>14</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1241,7 +1241,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2D</Order>
           <NickName>15</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1261,7 +1261,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2E</Order>
           <NickName>16</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1281,7 +1281,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>2F</Order>
           <NickName>17</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1301,7 +1301,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>30</Order>
           <NickName>18</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1321,7 +1321,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>31</Order>
           <NickName>19</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1341,7 +1341,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>32</Order>
           <NickName>20</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1361,7 +1361,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>33</Order>
           <NickName>21</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1381,7 +1381,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>34</Order>
           <NickName>22</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1401,7 +1401,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>35</Order>
           <NickName>23</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1421,7 +1421,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>36</Order>
           <NickName>24</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1441,7 +1441,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>37</Order>
           <NickName>25</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1461,7 +1461,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>38</Order>
           <NickName>26</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1481,7 +1481,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>39</Order>
           <NickName>27</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1501,7 +1501,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3A</Order>
           <NickName>28</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1521,7 +1521,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3B</Order>
           <NickName>29</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1541,7 +1541,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3C</Order>
           <NickName>30</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1561,7 +1561,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3D</Order>
           <NickName>31</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1581,7 +1581,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3E</Order>
           <NickName>32</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1601,7 +1601,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>3F</Order>
           <NickName>33</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1621,7 +1621,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>40</Order>
           <NickName>34</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1641,7 +1641,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>41</Order>
           <NickName>35</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1661,7 +1661,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>42</Order>
           <NickName>36</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1681,7 +1681,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>43</Order>
           <NickName>37</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1701,7 +1701,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>44</Order>
           <NickName>38</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1721,7 +1721,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>45</Order>
           <NickName>39</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1741,7 +1741,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>46</Order>
           <NickName>40</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1761,7 +1761,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>47</Order>
           <NickName>41</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1781,7 +1781,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>48</Order>
           <NickName>42</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1801,7 +1801,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>49</Order>
           <NickName>43</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1821,7 +1821,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4A</Order>
           <NickName>44</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1841,7 +1841,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4B</Order>
           <NickName>45</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1861,7 +1861,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4C</Order>
           <NickName>46</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1881,7 +1881,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4D</Order>
           <NickName>47</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1901,7 +1901,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4E</Order>
           <NickName>48</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1921,7 +1921,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>4F</Order>
           <NickName>49</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1941,7 +1941,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>50</Order>
           <NickName>50</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1961,7 +1961,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>51</Order>
           <NickName>51</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -1981,7 +1981,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>52</Order>
           <NickName>52</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2001,7 +2001,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>53</Order>
           <NickName>53</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2021,7 +2021,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>54</Order>
           <NickName>54</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2041,7 +2041,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>55</Order>
           <NickName>55</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2061,7 +2061,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>56</Order>
           <NickName>56</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2081,7 +2081,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>57</Order>
           <NickName>57</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2101,7 +2101,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>58</Order>
           <NickName>58</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2121,7 +2121,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>59</Order>
           <NickName>59</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2141,7 +2141,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5A</Order>
           <NickName>60</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2161,7 +2161,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5B</Order>
           <NickName>61</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2181,7 +2181,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5C</Order>
           <NickName>62</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2201,7 +2201,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5D</Order>
           <NickName>63</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2221,7 +2221,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5E</Order>
           <NickName>64</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2241,7 +2241,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>5F</Order>
           <NickName>65</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2261,7 +2261,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>60</Order>
           <NickName>66</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2281,7 +2281,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>61</Order>
           <NickName>67</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2301,7 +2301,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>62</Order>
           <NickName>68</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2321,7 +2321,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>63</Order>
           <NickName>69</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2341,7 +2341,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>64</Order>
           <NickName>70</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2361,7 +2361,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>65</Order>
           <NickName>71</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2381,7 +2381,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>66</Order>
           <NickName>72</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2401,7 +2401,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>67</Order>
           <NickName>73</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2421,7 +2421,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>68</Order>
           <NickName>74</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2441,7 +2441,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>69</Order>
           <NickName>75</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2461,7 +2461,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6A</Order>
           <NickName>76</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2481,7 +2481,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6B</Order>
           <NickName>77</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2501,7 +2501,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6C</Order>
           <NickName>78</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2521,7 +2521,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6D</Order>
           <NickName>79</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2541,7 +2541,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6E</Order>
           <NickName>80</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2561,7 +2561,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>6F</Order>
           <NickName>81</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2581,7 +2581,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>70</Order>
           <NickName>82</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2601,7 +2601,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>71</Order>
           <NickName>83</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2621,7 +2621,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>72</Order>
           <NickName>84</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2641,7 +2641,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>73</Order>
           <NickName>85</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2661,7 +2661,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>74</Order>
           <NickName>86</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2681,7 +2681,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>75</Order>
           <NickName>87</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2701,7 +2701,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>76</Order>
           <NickName>88</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2721,7 +2721,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>77</Order>
           <NickName>89</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -2741,7 +2741,7 @@
       <RegRef>1</RegRef>
       <SubType>40</SubType>
       <Private>
-        <SFL Name="BoardConfig">
+        <SFL Name="Board Config">
           <Order>78</Order>
           <NickName>90</NickName>
           <Catalog>Temperature Configuration</Catalog>
@@ -4343,7 +4343,7 @@
           <Group>KALL17</Group>
           <Description>sw cadc ctrl</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>0</Order>
           <NickName>sw cadc ctrl</NickName>
           <Catalog>CADC</Catalog>
@@ -4963,7 +4963,7 @@
           <Group>KALL17</Group>
           <Description>uv shutdown th</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>uv shutdown th</NickName>
           <Catalog>UV</Catalog>
@@ -5012,7 +5012,7 @@
           <Group>KALL17</Group>
           <Description>uv shutdown dly</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>2</Order>
           <NickName>uv shutdown dly</NickName>
           <Catalog>UV</Catalog>
@@ -5056,7 +5056,7 @@
           <Group>KALL17</Group>
           <Description>ovp th</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>ovp th</NickName>
           <Catalog>OV</Catalog>
@@ -5103,7 +5103,7 @@
           <Group>KALL17</Group>
           <Description>ovp rls hys</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>2</Order>
           <NickName>ovp rls hys</NickName>
           <Catalog>OV</Catalog>
@@ -5158,7 +5158,7 @@
           <Group>KALL17</Group>
           <Description>ovp dly</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>3</Order>
           <NickName>ovp dly</NickName>
           <Catalog>OV</Catalog>
@@ -5202,7 +5202,7 @@
           <Group>KALL17</Group>
           <Description>doc1p th</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>doc1p th</NickName>
           <Catalog>DOC</Catalog>
@@ -5258,7 +5258,7 @@
           <Group>KALL17</Group>
           <Description>doc1p dly</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>2</Order>
           <NickName>doc1p dly</NickName>
           <Catalog>DOC</Catalog>
@@ -5307,7 +5307,7 @@
           <Group>KALL17</Group>
           <Description>efetc mode</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>efetc mode</NickName>
           <Catalog>Misc</Catalog>
@@ -5368,7 +5368,7 @@
           <MaxValue>7</MaxValue>
           <Description>Cell number</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>2</Order>
           <NickName>cell num</NickName>
           <Catalog>Misc</Catalog>
@@ -5412,7 +5412,7 @@
           <Group>KALL17</Group>
           <Description>cocp th</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>cocp th</NickName>
           <Catalog>COC</Catalog>
@@ -5468,7 +5468,7 @@
           <Group>KALL17</Group>
           <Description>cocp dly</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>2</Order>
           <NickName>cocp dly</NickName>
           <Catalog>COC</Catalog>
@@ -5515,7 +5515,7 @@
           <Group>KALL17</Group>
           <Description>type cfg</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>7</Order>
           <NickName>type cfg</NickName>
           <Catalog>Misc</Catalog>
@@ -5621,7 +5621,7 @@
           <Group>KALL17</Group>
           <Description>doc2p th</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>4</Order>
           <NickName>doc2p th</NickName>
           <Catalog>DOC</Catalog>
@@ -5665,7 +5665,7 @@
           <Group>KALL17</Group>
           <Description>scp dly</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>2</Order>
           <NickName>scp dly</NickName>
           <Catalog>SC</Catalog>
@@ -5742,7 +5742,7 @@
           <Group>KALL17</Group>
           <Description>doc2p dly</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>5</Order>
           <NickName>doc2p dly</NickName>
           <Catalog>DOC</Catalog>
@@ -5789,7 +5789,7 @@
           <Group>KALL17</Group>
           <Description>intrpt type</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>3</Order>
           <NickName>intrpt type</NickName>
           <Catalog>Misc</Catalog>
@@ -5838,7 +5838,7 @@
           <Group>KALL17</Group>
           <Description>scp th</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>scp th</NickName>
           <Catalog>SC</Catalog>
@@ -5881,7 +5881,7 @@
           <Group>KALL17</Group>
           <Description>spiwdt timer</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>4</Order>
           <NickName>spiwdt timer</NickName>
           <Catalog>Misc</Catalog>
@@ -5925,7 +5925,7 @@
           <Group>KALL17</Group>
           <Description>chg threshold</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>chg th</NickName>
           <Catalog>CHG</Catalog>
@@ -5969,7 +5969,7 @@
           <Group>KALL17</Group>
           <Description>dsg threshold</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>1</Order>
           <NickName>dsg th</NickName>
           <Catalog>DSG</Catalog>
@@ -6011,6 +6011,37 @@
           <Write>true</Write>
           <Group>KALL17</Group>
           <Description>unlock cfg wrt</Description>
+        </SFL>
+      </Private>
+    </Element>
+    <Element Guid="0x00035601">
+      <PhysicalData>0</PhysicalData>
+      <PhyRef>1</PhyRef>
+      <RegRef>1</RegRef>
+      <SubType>0</SubType>
+      <HexMin>0</HexMin>
+      <HexMax>32767</HexMax>
+      <PhyMin>0</PhyMin>
+      <PhyMax>32767</PhyMax>
+      <LocationList>
+        <Location Position="Low">
+          <Address>56</Address>
+          <StartBit>1</StartBit>
+          <BitsNumber>15</BitsNumber>
+        </Location>
+      </LocationList>
+      <Private>
+        <SFL Name="Expert">
+          <CustomerMode>true</CustomerMode>
+          <BitTotal>10</BitTotal>
+          <Index>56</Index>
+          <BitStart>1</BitStart>
+          <Length>f</Length>
+          <Value>0</Value>
+          <Read>true</Read>
+          <Write>true</Write>
+          <Group>KALL17</Group>
+          <Description>Reserved</Description>
         </SFL>
       </Private>
     </Element>
@@ -6371,7 +6402,7 @@
           <Group>KALL17</Group>
           <Description>pre sel</Description>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>5</Order>
           <NickName>pre sel</NickName>
           <Catalog>Misc</Catalog>
@@ -6529,7 +6560,7 @@
           <Group>7</Group>
           <SubGroup>2</SubGroup>
         </SFL>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>6</Order>
           <NickName>thm crrt sel</NickName>
           <Catalog>Misc</Catalog>
@@ -8741,7 +8772,7 @@
         <Item>Enable</Item>
       </ItemList>
       <Private>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>4</Order>
           <NickName>ovp-enable</NickName>
           <Catalog>OV</Catalog>
@@ -8774,7 +8805,7 @@
         <Item>Enable</Item>
       </ItemList>
       <Private>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>3</Order>
           <NickName>doc1p-enable</NickName>
           <Catalog>DOC</Catalog>
@@ -8806,7 +8837,7 @@
         <Item>Enable</Item>
       </ItemList>
       <Private>
-        <SFL Name ="OPConfig">
+        <SFL Name ="Register Config">
           <Order>3</Order>
           <NickName>cocp-enable</NickName>
           <Catalog>COC</Catalog>

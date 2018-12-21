@@ -588,7 +588,7 @@ namespace O2Micro.Cobra.KALL17
 
             ParamContainer demparameterlist = msg.task_parameterlist;
             if (demparameterlist == null) return ret;
-            if (msg.gm.sflname == "OPConfig")
+            if (msg.gm.sflname == "Register Config")
             {
                 ret = UnLockCfgArea();
                 if (ret != LibErrorCode.IDS_ERR_SUCCESSFUL)
