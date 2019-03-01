@@ -69,7 +69,9 @@
     <Content Include="xml x\DeviceDescriptor.xml" />
     <Content Include="xml x\ExtensionDescriptor.xml" />
     <Content Include="xml y\DeviceDescriptor.xml" />
-    <Content Include="xml y\ExtensionDescriptor.xml" />
+    <Content Include="xml y\ExtensionDescriptor.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
