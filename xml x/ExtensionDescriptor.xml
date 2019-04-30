@@ -14,7 +14,11 @@
         <Button Name ="EraseBtn" IsEnable ="False" Visibility="Collapsed"/>
       </Layout>
     </Button>
-    <Button Label = "Expert"         Name = "Exper"         PanelName ="O2Micro.Cobra.ExperPanel"/>
+    <Button Label = "Expert"  Name = "Exper"         PanelName ="O2Micro.Cobra.ExperPanel">
+      <Configure>
+        <HidePro>true</HidePro>
+      </Configure>
+    </Button>
     <Button Label = "Scan"       DBModuleName="Scan"      Name = "ScanV2"         PanelName ="O2Micro.Cobra.ScanPanel">
       <Section Name ="Configuration">
         <Element Name ="Scan Rate">

@@ -68,7 +68,9 @@
   <ItemGroup>
     <Content Include="xml x\DeviceDescriptor.xml" />
     <Content Include="xml x\ExtensionDescriptor.xml" />
-    <Content Include="xml y\DeviceDescriptor.xml" />
+    <Content Include="xml y\DeviceDescriptor.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="xml y\ExtensionDescriptor.xml">
       <SubType>Designer</SubType>
     </Content>
