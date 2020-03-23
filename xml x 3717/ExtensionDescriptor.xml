@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root usage="ExtensionDescriptor" chip="OZ3717" chiptype="7717" bustype ="SPI" libname ="O2Micro.Cobra.KALL17" AppVersion="2.00.03" OCEVersion="1.00.00.00" AMTEnable = "false" ProjectCode="OCE3717X">
+  <Part Name="DBConfig">
+    <ChipName>OZ3717</ChipName>
+    <ChipVersion>MP</ChipVersion>
+    <UserType>X</UserType>
+    <Date>20200302</Date>
+    <HasCom>true</HasCom>
+    <HasAMT>true</HasAMT>
+  </Part>
+  <Part Name = "MainBtnList">
+    <Button Label = "Board Config"  NoMapping="True"  Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
+      <Layout Name="layout" bOrder ="true">
+        <Button Name ="EraseBtn" IsEnable ="False" Visibility="Collapsed"/>
+      </Layout>
+    </Button>
+    <Button Label = "Expert"  Name = "Exper"         PanelName ="O2Micro.Cobra.ExperPanel">
+      <Configure>
+        <HidePro>true</HidePro>
+      </Configure>
+    </Button>
+    <Button Label = "Scan"       DBModuleName="Scan"      Name = "ScanV2"         PanelName ="O2Micro.Cobra.ScanPanel">
+      <Section Name ="Configuration">
+        <Element Name ="Scan Rate">
+          <Catalog></Catalog>
+          <DefValue>0</DefValue>
+          <EditorType>1</EditorType>
+          <ItemList>
+            <Item Value ="1000mS">1S</Item>
+            <Item Value ="2000mS">2S</Item>
+            <Item Value ="5000mS">5S</Item>
+          </ItemList>
+        </Element>
+        <Element Name ="SAR ADC Mode">
+          <Catalog></Catalog>
+          <DefValue>0</DefValue>
+          <EditorType>1</EditorType>
+          <ItemList>
+            <Item Value ="Disable">Disable</Item>
+            <Item Value ="1_Time">1_Time</Item>
+            <Item Value ="8_Time_Average">8_Time_Average</Item>
+          </ItemList>
+        </Element>
+        <Element Name ="CADC Mode">
+          <Catalog></Catalog>
+          <DefValue>0</DefValue>
+          <EditorType>1</EditorType>
+          <ItemList>
+            <Item Value ="Disable">Disable</Item>
+            <Item Value ="Trigger">Trigger</Item>
+            <Item Value ="Moving">Consecutive</Item>
+          </ItemList>
+        </Element>
+      </Section>
+    </Button>
+    <Button Label = "Register Config"  NoMapping="True"    Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
+      <Layout Name ="layout" bOrder ="true">
+        <Button Name ="EraseBtn" IsEnable ="False" Visibility="Collapsed"/>
+      </Layout>
+    </Button>
+  </Part>
+</Root>
