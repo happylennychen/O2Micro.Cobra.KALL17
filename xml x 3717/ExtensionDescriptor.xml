@@ -2,7 +2,7 @@
 <Root usage="ExtensionDescriptor" chip="OZ3717" chiptype="7717" bustype ="SPI" libname ="O2Micro.Cobra.KALL17" AppVersion="2.00.03" OCEVersion="1.00.00.00" AMTEnable = "false" ProjectCode="OCE3717X">
   <Part Name="DBConfig">
     <ChipName>OZ3717</ChipName>
-    <ChipVersion>MP</ChipVersion>
+    <ChipVersion>E1</ChipVersion>
     <UserType>X</UserType>
     <Date>20200302</Date>
     <HasCom>true</HasCom>
@@ -12,6 +12,10 @@
     <Button Label = "Board Config"  NoMapping="True"  Name ="DeviceConfig"   PanelName ="O2Micro.Cobra.DeviceConfigurationPanel">
       <Layout Name="layout" bOrder ="true">
         <Button Name ="EraseBtn" IsEnable ="False" Visibility="Collapsed"/>
+        <Button Name ="SaveBtn" IsEnable ="False" Visibility="Collapsed"/>
+        <Button Name ="LoadBtn" Recontent="Load CSV" IsEnable ="True=" Visibility="Visible"/>
+        <Button Name ="ReadBtn" Recontent="Reset" IsEnable ="True" Visibility="Visible"/>
+        <Button Name ="WriteBtn" Recontent="Apply" IsEnable ="False" Visibility="Collapsed"/>
       </Layout>
     </Button>
     <Button Label = "Expert"  Name = "Exper"         PanelName ="O2Micro.Cobra.ExperPanel">
