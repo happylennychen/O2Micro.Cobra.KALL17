@@ -8719,9 +8719,21 @@
           <Length>1</Length>
           <Value>0</Value>
           <Read>true</Read>
-          <Write>false</Write>
+          <Write>true</Write>
           <Group>OZ7717</Group>
           <Description>indsg_flag</Description>
+        </SFL>
+        <SFL Name="Scan">
+          <Group>4</Group>
+          <SubGroup>0</SubGroup>
+          <Order>10</Order>
+          <BClearable>true</BClearable>
+          <NickName>indsg flag</NickName>
+          <LogName>indsg flag</LogName>
+          <DefValue>0</DefValue>
+          <MinValue>0</MinValue>
+          <MaxValue>1</MaxValue>
+          <Description>set to “1” once in-discharge current (by analog comparator) is confirmed with 32us filter, clear to “0” by writing “1” to this bit.</Description>
         </SFL>
       </Private>
     </Element>
@@ -8750,9 +8762,21 @@
           <Length>1</Length>
           <Value>0</Value>
           <Read>true</Read>
-          <Write>false</Write>
+          <Write>true</Write>
           <Group>OZ7717</Group>
           <Description>uv_flag</Description>
+        </SFL>
+        <SFL Name="Scan">
+          <Group>4</Group>
+          <SubGroup>0</SubGroup>
+          <Order>11</Order>
+          <BClearable>true</BClearable>
+          <NickName>uv flag</NickName>
+          <LogName>uv flag</LogName>
+          <DefValue>0</DefValue>
+          <MinValue>0</MinValue>
+          <MaxValue>1</MaxValue>
+          <Description>set to “1” once UV is detected (consecutive 2 scan cycles) to provide interrupt to Microcontroller in advance because of UV shutdown function, clear to “0” by writing “1” to this bit.</Description>
         </SFL>
       </Private>
     </Element>
@@ -8781,9 +8805,21 @@
           <Length>1</Length>
           <Value>0</Value>
           <Read>true</Read>
-          <Write>false</Write>
+          <Write>true</Write>
           <Group>OZ7717</Group>
           <Description>conse_cadc_rdy_flag</Description>
+        </SFL>
+        <SFL Name="Scan">
+          <Group>4</Group>
+          <SubGroup>0</SubGroup>
+          <Order>12</Order>
+          <BClearable>true</BClearable>
+          <NickName>conse cadc rdy flag</NickName>
+          <LogName>conse cadc rdy flag</LogName>
+          <DefValue>0</DefValue>
+          <MinValue>0</MinValue>
+          <MaxValue>1</MaxValue>
+          <Description>set to “1” when consecutive CADC is finished, clear to “0” by writing “1” to this bit.</Description>
         </SFL>
       </Private>
     </Element>
