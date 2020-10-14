@@ -5107,7 +5107,7 @@
           <Order>2</Order>
           <NickName>ovp rls hys</NickName>
           <Catalog>OV</Catalog>
-          <DefValue>0</DefValue>
+          <DefValue>200</DefValue>
           <EditType>0</EditType>
           <Format>0</Format>
           <EventMode>0</EventMode>
@@ -5176,12 +5176,12 @@
       <PhysicalData>0</PhysicalData>
       <PhyRef>0.625</PhyRef>
       <RegRef>1</RegRef>
-      <Offset>5</Offset>
+      <Offset>4.375</Offset>
       <SubType>0</SubType>
       <HexMin>0</HexMin>
       <HexMax>255</HexMax>
-      <PhyMin>5.0</PhyMin>
-      <PhyMax>164.375</PhyMax>
+      <PhyMin>4.375</PhyMin>
+      <PhyMax>163.75</PhyMax>
       <LocationList>
         <Location Position ="Low">
           <Address>51</Address>
@@ -5210,8 +5210,8 @@
           <EditType>0</EditType>
           <Format>3</Format>
           <EventMode>0</EventMode>
-          <MinValue>5.625</MinValue>
-          <MaxValue>164.375</MaxValue>
+          <MinValue>5.0</MinValue>
+          <MaxValue>163.75</MaxValue>
           <Relations>
             <Item>0x000C0002</Item>
           </Relations>
@@ -5416,7 +5416,7 @@
           <Order>1</Order>
           <NickName>cocp th</NickName>
           <Catalog>COC</Catalog>
-          <DefValue>2.5</DefValue>
+          <DefValue>2.8125</DefValue>
           <EditType>0</EditType>
           <Format>4</Format>
           <EventMode>0</EventMode>
