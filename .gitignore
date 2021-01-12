@@ -11,6 +11,7 @@
 *.oce
 *.dll
 *.sln
+.vs/
 
 # ignore files in the System directory
 System/*.suo
